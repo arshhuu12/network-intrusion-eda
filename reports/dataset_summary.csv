@@ -1,0 +1,3 @@
+Dataset,Training Rows,Testing Rows,Total Rows,Columns,Categorical Features,Numerical Features,Training Attack %
+NSL-KDD,125973,22544,148517,43,3,38,46.54
+UNSW-NB15,175341,82332,257673,45,3,39,68.06
