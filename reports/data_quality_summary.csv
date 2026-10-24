@@ -1,0 +1,5 @@
+Dataset,Rows,Columns,Missing Cells,Missing %,Duplicate Records,Duplicate %,Repeated Feature Rows,Repeated Feature %,Conflicting Feature Patterns,Normal Records,Attack Records,Attack %
+NSL-KDD Train,125973,43,0,0.0,0,0.0,16,0.0127,15,67343,58630,46.54
+NSL-KDD Test,22544,43,0,0.0,0,0.0,57,0.2528,57,9711,12833,56.92
+UNSW-NB15 Train,175341,45,0,0.0,67601,38.554,74301,42.3751,229,56000,119341,68.06
+UNSW-NB15 Test,82332,45,0,0.0,26387,32.0495,28386,34.4775,6,37000,45332,55.06
