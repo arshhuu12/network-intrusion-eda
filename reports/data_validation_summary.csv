@@ -1,0 +1,5 @@
+Dataset,Rows Preserved,Original Values Preserved,Traffic Classes Valid,No New Missing Values
+NSL-KDD Train,True,True,True,True
+NSL-KDD Test,True,True,True,True
+UNSW-NB15 Train,True,True,True,True
+UNSW-NB15 Test,True,True,True,True
