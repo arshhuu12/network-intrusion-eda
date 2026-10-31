@@ -1,0 +1,2 @@
+Model,Dataset,Threshold,Records,Accuracy,Precision,Recall,F1,Average Precision,False Positive Rate,False Positives,False Negatives
+Random Forest,UNSW-NB15 Official Test,0.45,82332,0.8478720303162804,0.7861890887520282,0.9940439424688962,0.8779822501924033,0.9873890586203303,0.3312162162162162,12255,270

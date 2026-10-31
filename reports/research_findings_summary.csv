@@ -1,0 +1,15 @@
+Finding ID,Category,Dataset,Finding,Value,Evidence
+F01,Dataset Composition,NSL-KDD,Training attack proportion,46.54%,M5 and M7.1
+F02,Dataset Composition,UNSW-NB15,Training attack proportion,68.06%,M5 and M7.1
+F03,Data Quality,NSL-KDD,Exact duplicate records in training,0,M3
+F04,Data Quality,UNSW-NB15,"Exact duplicate records in training, excluding ID",38.55%,M3
+F05,Attack Composition,NSL-KDD,Attack types present only in testing,17,M7.2
+F06,Attack Composition,UNSW-NB15,Attack categories present only in testing,0,M7.2
+F07,Class Distribution,NSL-KDD,Train-to-test attack proportion change,+10.38 percentage points,M7.1
+F08,Class Distribution,UNSW-NB15,Train-to-test attack proportion change,-13.00 percentage points,M7.1
+F09,Numerical Distribution,NSL-KDD,Train-test KS statistic for dst_bytes,0.1241,M7.3
+F10,Numerical Distribution,UNSW-NB15,Train-test KS statistic for dur,0.0890,M7.3
+F11,Categorical Distribution,NSL-KDD,Train-test TVD for service,0.2049,M7.4
+F12,Categorical Distribution,UNSW-NB15,Train-test TVD for proto,0.0677,M7.4
+F13,Feature Relationships,NSL-KDD,Spearman correlation: same_srv_rate vs diff_srv_rate,-0.920,M6.3
+F14,Feature Relationships,UNSW-NB15,Spearman correlation: dbytes vs dpkts,+0.990,M6.3

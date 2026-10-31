@@ -1,0 +1,9 @@
+Metric,Value
+Training records,175341.0
+Testing records,82332.0
+Unique training feature patterns,101040.0
+Unique testing feature patterns,53946.0
+Testing records matching training hashes,8541.0
+Testing overlap percentage,10.37
+Overlapping test records with unseen label,296.0
+Ambiguous training feature hashes,229.0

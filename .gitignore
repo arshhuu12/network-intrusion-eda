@@ -1,6 +1,7 @@
 # Python virtual environment
 .venv/
 venv/
+.venv-repro/
 
 # Python cache
 __pycache__/
@@ -25,3 +26,14 @@ data/processed/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Temporary CSV files used for prediction testing
+data/sample_unsw_prediction.csv
+data/test_uploads/
+
+# Local Streamlit configuration and secrets
+.streamlit/secrets.toml
+
+# Temporary files
+*.tmp
+*.log

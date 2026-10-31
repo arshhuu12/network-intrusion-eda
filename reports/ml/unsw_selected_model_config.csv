@@ -1,0 +1,2 @@
+Model,Threshold,Minimum Recall Requirement,Selection Criterion,Selection Dataset,Random State
+Random Forest,0.45,0.985,Lowest validation false-positive rate subject to recall >= 0.985,Development Validation,42

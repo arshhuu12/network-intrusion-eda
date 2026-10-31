@@ -1,0 +1,2 @@
+Dataset,Records,Threshold,Accuracy,Precision,Recall,F1,Average Precision,False Positive Rate,False Positives,False Negatives
+UNSW-NB15 Non-Overlapping Test,73791,0.45,0.8375140599802144,0.7641298884085654,0.9932310587251392,0.8637469033387123,0.9834955703952832,0.3301902724611574,11731,259
